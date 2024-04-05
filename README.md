@@ -29,9 +29,16 @@ N/A
 
 MIT License
 
+## Contact
+https://github.com/jesse437/refactor-horiseon.git
+https://jesse437.github.io/refactor-horiseon/
+
 ## Badges
 
 N/A
+
+## Visuals
+![](assets/images/digital-marketing-meeting.jpg)
 
 ## Features
 
