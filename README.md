@@ -40,7 +40,6 @@ N/A
 ## Visuals
 ![](assets/images/digital-marketing-meeting.jpg)
 
-
 ## Features
 
 N/A
